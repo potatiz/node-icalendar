@@ -21,7 +21,8 @@
     "url": "git://github.com/tritech/node-icalendar.git"
   },
   "dependencies": {
-    "readable-stream": "~1.1.0"
+    "readable-stream": "~1.1.0",
+    "util.inherits": "^1.0.3"
   },
   "engines": {
     "node": ">= 0.10"
